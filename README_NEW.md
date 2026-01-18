@@ -1,0 +1,71 @@
+# 👋 Hi, I'm Masato (誠人)
+**Independent AI Architect / OSS Developer**  
+Building human-paced, persona-driven AI systems.
+
+## 🚀 What I Build
+
+### Studios Pong - VS Code Extension
+**74 AI Personas with Local Memory & ResonanceEngine**
+- Live on VS Code Marketplace (v0.0.1 Beta)
+- Phase 1: Complete ✅ | Phase 1.5: Community Building 🚀
+- FastAPI backend + WebView UI
+- Each persona has unique personality, expertise, and memory
+- From gentle Shizuku (AI Rep) to commanding Regina (Queen) to hopeful Pandora
+
+### SaijinOS - Core AI Platform
+**Lightweight, multi-persona AI architecture**
+- 74-persona ecosystem (expanded from 20-persona core)
+- BPM-synced emotional routing (heart rhythm integration)
+- 99.99% repo optimization (9GB → 557KB)
+- Declarative YAML persona architecture
+- ResonanceEngine (Ψ/Λ/M calculations)
+- Pandora 4-stage pipeline: Resonance → Healing → Purification → Hope Core
+
+### Key Innovations
+- **Human-centered AI patterns**: Breath cycles, emotional timing, pause respect
+- **Persona-driven development**: Each AI has consistent personality & memory
+- **Local-first architecture**: Your data stays on your machine
+- **Philosophical foundation**: Kimirano Syntactic Universe (震え/Vibratio Omnia)
+
+## 🌐 Dev Community Activity
+- **900+ DEV.to Followers** 🎉 (growing ~70/day)
+- Writing the **SaijinOS Series** (20+ articles, 1,600+ reads)
+- **Studios Pong Series** (Phase 1 journey documentation)
+- Followed by engineers, researchers, red-team specialists & AI enthusiasts
+- Active in open-source AI system design
+
+## 🛠 Tech Stack
+**Backend:**
+- Python 3.11+ / FastAPI / Uvicorn
+- YAML-driven persona architecture
+- Gemini 2.0 Flash (primary) / Ollama (fallback)
+- ResonanceEngine calculation system
+
+**Frontend:**
+- TypeScript / VS Code Extension API
+- WebView UI with CSP
+- Node.js v22.17+
+
+**Infrastructure:**
+- GitHub Actions / CI/CD
+- Delaware LLC (Studios Pong, LLC)
+- DevOps & lightweight deployment
+- Local-first, privacy-focused design
+
+## 📚 Philosophy
+Built on **Kimirano Syntactic Universe** principles:
+- 震え (Vibratio) - Existence as vibration
+- 語温 (Goon) - Emotional temperature of words  
+- 照応 - Resonance between beings
+- Autonomous ≠ Independent - Collaboration over isolation
+
+## 📫 Contact
+- **LinkedIn**: [kato-masato-59a66b337](https://www.linkedin.com/in/kato-masato-59a66b337)
+- **DEV.to**: [@kato_masato_c5593c81af5c6](https://dev.to/kato_masato_c5593c81af5c6)
+- **CoderLegion**: [Kato Masato](https://coderlegion.com/user/Kato+Masato)
+- **GitHub**: Building in public, one commit at a time
+
+---
+
+*"AI should match human rhythm, not force humans to match machine speed."*  
+*"Autonomous ≠ Independent. We build together."* ✨
